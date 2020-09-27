@@ -7,19 +7,20 @@
 **基本信息：** 张秋亮 /男 / 23&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北衡水
 
 **手&ensp;机&ensp;号：** 182 0323 1696&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** 3463194784@qq.com
-**证&emsp;&emsp;书：** 中国软件杯国赛三等奖；东软杯校赛三等奖；创业沙拉校赛二等奖，两个软件著作权&emsp;&emsp;&emsp;&emsp;&ensp;**实习经验：** 暂无
+**证&emsp;&emsp;书：** 中国软件杯国赛三等奖；东软杯校赛三等奖；创业沙拉校赛二等奖，两个软件著作权&emsp;&emsp;&emsp;&emsp;&ensp;
+**实习经验：** 暂无
 
-**GitHub：** https://github.com/congshengwu 
+**GitHub：** https://github.com/Zhangqiuliang 
 
-**CSDN：** &ensp;https://blog.csdn.net/c1024197824
+**博客园：** &ensp;https://www.cnblogs.com/zql98/
 
 <h1>求职意向</h1>
 
-**期望职位：** 安卓开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** 0k-1000k
+**期望职位：** Python开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** 2k-4k
 
 <h1>教育背景</h1>
 
-xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&emsp;电子信息工程
+石家庄铁道大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.09-2021.06&emsp;&emsp;&emsp;&emsp;&emsp;软件工程
 
 <h1>实习经历</h1>
 

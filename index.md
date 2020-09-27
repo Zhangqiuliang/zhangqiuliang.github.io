@@ -22,26 +22,6 @@
 
 石家庄铁道大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.09-2021.06&emsp;&emsp;&emsp;&emsp;&emsp;软件工程
 
-<h1>实习经历</h1>
-
-**公司：** xxxxxx信息科技有限公司&emsp;&emsp;**职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2018.03-2019.03
-<br/>
-**项目名称：** xxxxxxxxxx
-<br/>
-**项目简介：** xxxxxxxxxx
-<br/>
-**主要工作：**
- - xxxxxxxxxxxx。
- - xxxxxxxxxxxx。
- - xxxxxxxxxxxx。
- - 技术栈：
-   - 基于谷歌AAC框架实现MVVM应用架构
-   - 网络请求：Retrofit+OkHttp+RxJava
-   - Json解析：谷歌Gson
-   - XML/Html解析：Jsoup
-   - 图片加载：Glide
-   - UI及数据加载相关：DataBinding、Paging、自定义View
-
 <h1>个人作品</h1>
 
 **名称：** xxxx&emsp;&emsp;

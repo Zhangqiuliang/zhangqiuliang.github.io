@@ -7,7 +7,7 @@
 **基本信息：** 张秋亮 /男 / 23&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北衡水
 
 **手&ensp;机&ensp;号：** 182 0323 1696&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** 3463194784@qq.com
-**证&emsp;&emsp;书：** 中国软件杯国赛三等奖；东软杯校赛三等奖；创业沙拉校赛二等奖，两个软件著作权&emsp;&emsp;&emsp;&emsp;&ensp;
+**证&emsp;&emsp;书：** 中国软件杯国赛三等奖；东软杯校赛三等奖；创业沙拉校赛二等奖，两个软件著作权&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&ensp;
 **实习经验：** 暂无
 
 **GitHub：** https://github.com/Zhangqiuliang 

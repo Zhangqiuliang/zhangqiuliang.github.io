@@ -1,7 +1,7 @@
 <h1>程序~猿</h1>
 
 <div style="float:right">
-    <img src="touxiang.jpg" width="150">
+    <img src=touxiang.jpg width="150">
 </div>
 
 **基本信息：** 张秋亮 /男 / 23&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北衡水
